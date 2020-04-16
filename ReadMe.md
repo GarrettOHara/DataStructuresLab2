@@ -21,7 +21,7 @@ Enter the input file as a command line argument
   
 #What I learned
 ------------
-*Parse CSV files
+* Parse CSV files
 *Create and utalize a Queue data structure
 *Writing output files
 *Reading command line arguments
