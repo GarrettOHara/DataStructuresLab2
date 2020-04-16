@@ -16,6 +16,7 @@ Run Command:
   	java Driver input.csv
 
 Enter the input file as a command line argument
+
 	- Any text file will be handled, howver for optimal
   performace input .csv only
   
