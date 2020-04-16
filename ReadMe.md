@@ -13,7 +13,7 @@ CS 310 - Data Structures Fall 2019
 Run Command:
 
 	javac Driver.java
-  java Driver input.csv
+  	java Driver input.csv
 
 Enter the input file as a command line argument
 	- Any text file will be handled, howver for optimal
