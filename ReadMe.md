@@ -1,4 +1,4 @@
-#Integer Decoder
+# Integer Decoder
 ==============
 
 Garrett O'Hara
@@ -7,7 +7,7 @@ CS 310 - Data Structures Fall 2019
 
 *Java*
 
-#Usage
+# Usage
 ------------
 
 Run Command:
@@ -19,7 +19,7 @@ Enter the input file as a command line argument
 - Any text file will be handled, however for optimal
   performace input .csv only.
   
-#What I learned
+# What I learned
 ------------
 * Parse CSV files
 * Create and utalize a Queue data structure
